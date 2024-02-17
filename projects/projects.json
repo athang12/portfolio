@@ -45,8 +45,8 @@
     "image": "instagrammern",
     "category": "mern",
     "links": {
-      "view": "https://instagramernstack.herokuapp.com/",
-      "code": "https://github.com/jigar-sable/instagram-mern"
+      "view": "#",
+      "code": "https://github.com/athang12/med-Dapp"
     }
   },
   {
@@ -56,7 +56,7 @@
     "category": "mern",
     "links": {
       "view": "https://flipkartwebs.herokuapp.com/",
-      "code": "https://github.com/jigar-sable/flipkart-mern"
+      "code": "https://github.com/athang12/weekenddiscoveries"
     }
   },
   {
@@ -66,7 +66,7 @@
     "category": "mern",
     "links": {
       "view": "https://reactjsprojects.herokuapp.com/",
-      "code": "https://github.com/jigar-sable/React-Projects"
+      "code": "https://github.com/athang12/jobster"
     }
   },
   {
@@ -76,7 +76,7 @@
     "category": "mern",
     "links": {
       "view": "https://resumegenx.netlify.app/",
-      "code": "https://github.com/jigar-sable/resumegen"
+      "code": "https://github.com/athang12/movie-site"
     }
   },
   
@@ -86,8 +86,8 @@
     "image": "flipkartphp",
     "category": "lamp",
     "links": {
-      "view": "https://github.com/jigar-sable/Flipkart-Clone-PHP",
-      "code": "https://github.com/jigar-sable/Flipkart-Clone-PHP"
+      "view": "#",
+      "code": "https://github.com/athang12/Weather-App"
     }
   }
 ]
