@@ -41,11 +41,11 @@
   },
   {
     "name": "Health-Care DApp",
-    "desc": "Full-Stack Instagram clone built using MERN stack and realtime chat with the help of socket.iO",
+    "desc": "Decentralised Medical App for smooth and secure transfer of Medical Data",
     "image": "instagrammern",
     "category": "mern",
     "links": {
-      "view": "#",
+      "view": "https://github.com/athang12/med-Dapp",
       "code": "https://github.com/athang12/med-Dapp"
     }
   },
@@ -55,17 +55,17 @@
     "image": "flipkartmern",
     "category": "mern",
     "links": {
-      "view": "https://flipkartwebs.herokuapp.com/",
+      "view": "https://github.com/athang12/weekenddiscoveries",
       "code": "https://github.com/athang12/weekenddiscoveries"
     }
   },
   {
     "name": "Jobster ( Find Jobs !! )",
-    "desc": "Full-Stack project dashboard which is collection of projects built on the React library.",
+    "desc": "Full-Stack project finding and registering jobs",
     "image": "reactprojects",
     "category": "mern",
     "links": {
-      "view": "https://reactjsprojects.herokuapp.com/",
+      "view": "https://jobster-api-4fzd.onrender.com/",
       "code": "https://github.com/athang12/jobster"
     }
   },
@@ -81,12 +81,12 @@
   },
   
   {
-    "name": "Flipkart PHP",
-    "desc": "Full-Stack Flipkart Clone Using LAMP Stack. With all major features and OTP authentication and Cashfree payment gateway.",
+    "name": "GET WEATHER",
+    "desc": "Full-Stack and creative weather app",
     "image": "flipkartphp",
     "category": "lamp",
     "links": {
-      "view": "#",
+      "view": "https://athang-weather-app.netlify.app/",
       "code": "https://github.com/athang12/Weather-App"
     }
   }
