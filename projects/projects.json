@@ -83,7 +83,7 @@
   {
     "name": "GET WEATHER",
     "desc": "Full-Stack and creative weather app",
-    "image": "flipkartphp",
+    "image": "s2",
     "category": "lamp",
     "links": {
       "view": "https://athang-weather-app.netlify.app/",
